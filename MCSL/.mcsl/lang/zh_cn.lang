@@ -1,0 +1,18 @@
+# MCSL我的世界开服器的中文语言文件
+# 翻译者：方黄旭 fanghuangxu@163.com
+
+
+
+__main__.title=MCSL我的世界开服器
+__main__.servers_meun.text1=新建服务器
+__main__.servers_meun.text2=服务器列表
+__main__.meun_bar.text1=服务器
+__main__.welcome_text=欢迎使用MCSL我的世界开服器！
+AddServer.title=服务器新建向导
+AddServer.version_comb.setTitle=请选择服务器版本
+AddServer.Button.text=下一步
+ServerList.title=服务器列表
+ServerList.Label.text=服务器列表
+ServerList.info.title=提示
+ServerList.info.text=请阅读Minecraft的EULA,\n并同意其条款后，点击确定按钮启动服务器。
+ServerList.Button.text=启动服务器

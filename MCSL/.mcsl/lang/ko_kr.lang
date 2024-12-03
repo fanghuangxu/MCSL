@@ -1,0 +1,18 @@
+# MCSL我的世界开服器的中文语言文件
+# 翻译者：方黄旭 fanghuangxu@163.com
+
+
+
+__main__.title=MCSL 마인크래프트 서버
+__main__.servers_meun.text1=서버 만들기
+__main__.servers_meun.text2=서버 목록
+__main__.meun_bar.text1=서버
+__main__.welcome_text=MCSL 마인크래프트 서버를 사용해 주셔서 감사합니다!
+AddServer.title=서버 만들기 마법사
+AddServer.version_comb.setTitle=서버 버전을 선택해 주세요
+AddServer.Button.text=다음 단계
+ServerList.title=서버 목록
+ServerList.Label.text=서버 목록
+ServerList.info.title=알림
+ServerList.info.text=Minecraft의 EULA를 읽고,\n동의한 후 확인 버튼을 클릭하여 서버를 시작하세요.
+ServerList.Button.text=서버 시작

@@ -1,0 +1,18 @@
+# MCSL我的世界开服器的中文语言文件
+# 翻译者：方黄旭 fanghuangxu@163.com
+
+
+
+__main__.title=MCSL Minecraft Server Launcher
+__main__.servers_meun.text1=Create New Server
+__main__.servers_meun.text2=Server List
+__main__.meun_bar.text1=Servers
+__main__.welcome_text=Welcome to MCSL Minecraft Server!
+AddServer.title=Server Creation Wizard
+AddServer.version_comb.setTitle=Please select the server version
+AddServer.Button.text=Next
+ServerList.title=Server List
+ServerList.Label.text=Server List
+ServerList.info.title=Tip
+ServerList.info.text=Please read Minecraft's EULA,\nand agree to its terms before clicking the OK button to start the server.
+ServerList.Button.text=Start Server
