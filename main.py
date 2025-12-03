@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import messagebox
-from cml.utils import get_version_list as version_list
+from ml import get_version_list as version_list
 import utils
 import tkinter.ttk
 import download_file
